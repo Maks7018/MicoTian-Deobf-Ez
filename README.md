@@ -1,4 +1,4 @@
 # MicoTian-Deobf-Ez
-(MoonLight.tech) NightMare owned Micotian 
+Micotian owned by NightMare
 
 Снял не все так как лень, деф хуйня на ремап/ренеймер
